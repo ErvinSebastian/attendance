@@ -1,7 +1,7 @@
 import axios, { CanceledError } from 'axios';
 
 export default axios.create({
-  baseURL: 'http://localhost/attendance/app/index.php',
+  baseURL: 'https://qrize-app.online/app/index.php',
   headers: {
     'Access-Control-Allow-Origin': '*',
   },
