@@ -13,7 +13,7 @@
     "email": "hello@tailadmin.com",
     "url": "https://tailadmin.com"
   },
-  "homepage": "http://localhost/attendance",
+  "homepage": "https://qrize-app.online",
   "dependencies": {
     "@devexpress/dx-react-core": "^4.0.8",
     "@devexpress/dx-react-scheduler": "^4.0.8",
