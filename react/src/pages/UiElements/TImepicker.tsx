@@ -9,7 +9,7 @@ interface Props {
 }
 const Timepicker = ({ time, handleTime, day, type, index }: Props) => {
   const [value, setValue] = useState('');
-
+   console.log(time);
   useEffect(() => {
     return () => {
       setValue(time);
